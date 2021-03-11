@@ -1,0 +1,87 @@
+{
+	"noSpawnPosition": "There is no vehicle spawning position, please contact an administrator",
+	"vgui": {
+		"send": "SEND",
+		"cancel": "Cancel",
+		"pressR": "Press %s to set a fine",
+		"requestedBy": "REQUESTED BY",
+		"time": "TIME",
+		"retrieveTruck": "I would like to retrieve my tow truck!",
+		"nothing": "Nothing...",
+		"price": "Price",
+		"signature": "Signature",
+		"pay": "PAY",
+		"npcWelcome": "Hey! What would you like to do?",
+		"removeTruck": "I would like to remove my tow truck!",
+		"vehicle": "VEHICLE",
+		"requests": "REQUESTS",
+		"date": "DATE",
+		"road2": "SERVICE",
+		"city": "CITY",
+		"road": "ROAD"
+	},
+	"request": {
+		"requests": "REQUESTS",
+		"alreadyOnePending": "You already have a pending request",
+		"received": "A new request has been received",
+		"coming": "A mechanic is on the way, do not move",
+		"yesNeed": "Yes, I need help",
+		"cancelledMechanicUnavailable": "Your request has been cancelled because the mechanic is no longer available",
+		"welcome": "Hey do you need something?",
+		"cancelledCustomerUnavailable": "Your request has been cancelled because the customer is no longer available",
+		"accepted": "Request successfully accepted",
+		"nonePending": "You do not have any accepted request",
+		"sent": "Your request has been sent",
+		"cancelled": "Request successfully cancelled",
+		"alreadyAccepted": "This request has already been accepted by someone else"
+	},
+	"trailer": {
+		"lockIt": "You must lock the trailer to enter in the vehicle",
+		"needDown": "You must first lower the trailer"
+	},
+	"noAccess": "You do not have access to this",
+	"weapon": {
+		"switchAction": "Switch action",
+		"trailerLocked": "Trailer locked",
+		"lockUnlockTrailer": "(Un)Lock the trailer",
+		"shrinkRope": "Shrink the rope",
+		"enlargeRope": "Extend the rope",
+		"trailerNotUp": "The trailer is not up",
+		"ropeNotLinked": "The rope is not linked",
+		"moveTrailer": "Move the trailer",
+		"trailerUnLocked": "Trailer unlocked",
+		"vehicleTooFar": "The vehicle is too far",
+		"performAction": "Perform action",
+		"trailerIsLocked": "The trailer is locked!"
+	},
+	"hook": {
+		"tooFar": "The hook came back on the truck because you're too far away",
+		"alreadyUsed": "Someone is already using the hook"
+	},
+	"wrongJob": "You do not have the right job",
+	"towFine": {
+		"alreadyFined": "This vehicle has already a tow fine",
+		"successfullySent": "The tow fine has successfully been set",
+		"invalidDescription": "The description is invalid (from 10 to 250 characters)",
+		"invalidPrice": "The price is not valid (from %s to %s)",
+		"mechanicInactivity": "The tow fine has been cancelled due to the inactivity of the mechanic",
+		"none": "This vehicle hasn't any tow fine",
+		"paid": "The tow fine has successfully been paid",
+		"victimInactivity": "The tow fine has been cancelled due to the inactivity of the owner of the vehicle",
+		"received": "A tow fine has been set on your vehicle",
+		"receivePaid": "A tow fine has been paid, you've received %s"
+	},
+	"noMoney": "You don't have enough money",
+	"npc": {
+		"vehicleRemoved": "Your vehicle has been removed",
+		"vehicleRetrieved": "You retrieved your vehicle!",
+		"vehicleTooFar": "Your vehicle is too far!",
+		"removeFirst": "You can't remove your tow truck with a vehicle on it",
+		"cleanUp": "You must clean up for the NPC to make it appear"
+	},
+	"errorHasOccured": "An error has occured, please try again",
+	"pressUse": "Press \"USE\"",
+	"truck": {
+		"tooFar": "You're too far from the tow truck"
+	}
+}
