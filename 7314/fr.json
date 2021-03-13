@@ -1,0 +1,38 @@
+{
+	"vgui": {
+		"show": "Show",
+		"timeLeft": "Remaining time : %s second(s)",
+		"zone": "Area",
+		"delete": "Delete",
+		"createZone": "Create an area",
+		"saveZone": "Save the area",
+		"score": "Points: %s / %s",
+		"canHelpYou": "Hey, can I help you?",
+		"editZone": "Edit an area"
+	},
+	"admin": {
+		"zoneAdded": "Area successfully added",
+		"mustArea": "You must be in an area",
+		"zoneDeleted": "Area successfully deleted"
+	},
+	"test": {
+		"success": "You passed the test, you received your license!",
+		"cancelDead": "The test has been cancelled because you died",
+		"testStart": "The test is about to start, go at the indicated position",
+		"noMoney": "You do not have enough money",
+		"zoneUnavailable": "There is no available zone at the moment",
+		"fail": "You failed the test, you'll do better next time.",
+		"alreadyTest": "You already have a pending test",
+		"cancelTime": "The test has been cancelled because you took too long to go there"
+	},
+	"weapon": {
+		"deletePoint": "Delete the last placed point",
+		"placeZone": "Place a point to form the area",
+		"saveZone": "Save the area",
+		"placeTarget": "Place the target where you aim",
+		"createZone": "Create an area",
+		"deleteTarget": "Delete the target that you aim",
+		"createTarget": "Create a target",
+		"needZone": "You must create an area"
+	}
+}
