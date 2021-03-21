@@ -1,0 +1,95 @@
+{
+  "wrongJob": "你没有合适的工作",
+  "errorHasOccured": "出现错误,请重试",
+  "noAccess": "你没有权限访问此",
+  "noSpawnPosition": "没有车辆生成位置,请与管理员联系",
+  "noMoney": "你没有足够的钱",
+  "pressUse": "按 \"USE\"",
+  
+  "trailer": {
+    "needDown": "你必须先放下拖车",
+    "lockIt": "你必须锁上拖车才能进入车内" 
+  },
+    
+  "hook": {
+    "alreadyUsed": "有人已经在用钩子了",
+    "tooFar": "钩子掉在卡车上是因为你太远了"
+  },
+    
+  "npc": {
+    "cleanUp": "你必须清理干净,NPC才能让他出来",
+    "vehicleTooFar": "你的车太远了!",
+    "vehicleRemoved": "您的车辆已被移走",
+    "vehicleRetrieved": "你找回了你的车!",
+    "removeFirst": "你不能把你的拖车和车一起移走"
+  },
+   
+  "towFine" : {
+    "alreadyFined" : "这辆车已经被罚款了",
+    "invalidPrice" : "价格无效 (从 %s 到 %s)",
+    "invalidDescription": "描述无效 (从10到250个字符) ",
+    "successfullySent": "拖车罚款设置成功",
+    "received": "你的车被罚款了",
+    "none": "这辆车没有拖车罚款",
+    "mechanicInactivity": "由于机修工的不作为,拖车罚款取消了",
+    "victimInactivity": "由于车主的不作为,拖车罚款取消了",
+    "paid": "拖车罚款已成功缴纳",
+    "receivePaid": "已经交了罚款,你已经收到了 %s"
+  },
+    
+  "truck" : {
+    "tooFar": "你离拖车太远了"
+  },
+    
+  "weapon": {
+    "enlargeRope": "伸出绳子",
+    "ropeNotLinked": "绳子没系上",
+    "shrinkRope": "收缩绳子",
+    "lockUnlockTrailer": "(未)锁定拖车",
+    "trailerLocked": "拖车锁定",
+    "trailerUnLocked": "拖车解锁",
+    "trailerNotUp": "拖车没起来",
+    "moveTrailer": "移动拖车",
+    "trailerIsLocked": "拖车锁上了!",
+    "vehicleTooFar": "车辆太远",
+    "performAction": "执行操作",
+    "switchAction": "开关动作"
+  },
+  
+  "vgui": {
+    "road": "道路",
+    "road2": "服务",
+    "signature": "签名",
+    "price": "价格",
+    "date": "日期",
+    "time": "时间",
+    "requestedBy": "请求者",
+    "vehicle": "车辆",
+    "city": "城市",
+    "cancel": "取消",
+    "pay": "支付",
+    "send": "发送",
+    "npcWelcome": "嘿!你想做什么?",
+    "retrieveTruck": "我想取回我的拖车!",
+    "removeTruck": "我想把我的拖车移走!",
+    "nothing": "没事...",
+    "requests": "请求",
+    "pressR": "按 %s 设置罚款"
+  },
+    
+  "request": {
+    "requests": "请求",
+    "alreadyOnePending": "您已经有一个挂起的请求",
+    "nonePending": "您没有接受任何请求",
+    "sent": "您的请求已发送",
+    "alreadyAccepted": "此请求已被其他人接受",
+    "accepted": "已成功接受请求",
+    "cancelled": "请求成功已取消",
+    "cancelledMechanicUnavailable": "您的请求已被取消,因为技工不再可用",
+    "cancelledCustomerUnavailable": "您的请求已被取消,因为客户不再可用",
+    "welcome": "嘿你需要什么吗?",
+    "yesNeed": "我需要帮助.",
+    "coming": "机械师在路上,不要动",
+    "received": "已收到新请求" 
+  }
+}
