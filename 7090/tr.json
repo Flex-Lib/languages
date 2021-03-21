@@ -1,0 +1,95 @@
+{
+  "wrongJob": "Doğru mesleğe sahip değilsin",
+  "errorHasOccured": "Bşr hata meydana geldi. Daha sonra tekrar dene",
+  "noAccess": "Buna erişimin yok",
+  "noSpawnPosition": "Araba doğma noktası yok. Bir yetkili ile iletişime geç.",
+  "noMoney": "Yeterince paran yok",
+  "pressUse": "Kullan \"USE\"",
+  
+  "trailer": {
+    "needDown": "Önce çekiciyi indirmelisin",
+    "lockIt": "kamyona binmek için önce çekiciyi kitle" 
+  },
+    
+  "hook": {
+    "alreadyUsed": "Halatı zaten başkası kullanıyor",
+    "tooFar": "Halat kamyona geri döndü çükü kamyondan çok uzaksın"
+  },
+    
+  "npc": {
+    "cleanUp": "NPC nin görünmesi için \"Clean Up\" atmalısın",
+    "vehicleTooFar": "Araban çok uzak!",
+    "vehicleRemoved": "Araban silindi",
+    "vehicleRetrieved": "Aracını geri aldın!",
+    "removeFirst": "Üstünde raba varken kamyonu silemezsin"
+  },
+   
+  "towFine" : {
+    "alreadyFined" : "Bu arabada zaten ceza var",
+    "invalidPrice" : "Bu ücret geçerli değil ( %s den  %s e kadar)",
+    "invalidDescription": "Bu açıklama geçerli değil (10 karakterden 250 karaktere kadar )",
+    "successfullySent": "Başarıyla ceza yazdın",
+    "received": "Arabana ceza yazıldı",
+    "none": "Bu arabada ceza yok",
+    "mechanicInactivity": "Meknanik AFK olduğu için ceza silindi",
+    "victimInactivity": "Araba sahibi AFK olduğu için ceza silindi",
+    "paid": "Ceza ödendi",
+    "receivePaid": "Ceza ödendi, %s kazandın "
+  },
+    
+  "truck" : {
+    "tooFar": "Kamyondan çok uzaksın"
+  },
+    
+  "weapon": {
+    "enlargeRope": "Halatı uzat",
+    "ropeNotLinked": "Halat bağlı değil",
+    "shrinkRope": "Halatı kısalt",
+    "lockUnlockTrailer": "Çekicinin kilidini aç/kapa",
+    "trailerLocked": "Çekici kilitlendi",
+    "trailerUnLocked": "Çekici açıldı",
+    "trailerNotUp": "Dorse çalışmıyor",
+    "moveTrailer": "Dorseyi hareket ettir",
+    "trailerIsLocked": "Dorse kilitlendi!",
+    "vehicleTooFar": "Araba çok uzak",
+    "performAction": "Eylem gerçekleştir",
+    "switchAction": "Geçiş eylemi"
+  },
+  
+  "vgui": {
+    "road": "YOL",
+    "road2": "SEVİS",
+    "signature": "İmza",
+    "price": "Bedel",
+    "date": "TARİH",
+    "time": "ZAMAN",
+    "requestedBy": "TARAFINDAN İSTEDİ",
+    "vehicle": "ARABA",
+    "city": "ŞEHİR",
+    "cancel": "İptal",
+    "pay": "ÖDE",
+    "send": "GÖNDER",
+    "npcWelcome": "Hey! Ne yapmak istersin?",
+    "retrieveTruck": "Çekicimi istiyorum!",
+    "removeTruck": "Çekicimi silmek istiyorum!",
+    "nothing": "Hiç...",
+    "requests": "İSTEKLER",
+    "pressR": "ceza yazkmak için %s e bas "
+  },
+    
+  "request": {
+    "requests": "İSTEKLER",
+    "alreadyOnePending": "Zaten istek gönderdin",
+    "nonePending": "Kabul edilmiş isteğin yok",
+    "sent": "İsteğin gönderildi",
+    "alreadyAccepted": "Bu istek başkası tarafından kabul edilmiş",
+    "accepted": "İstek kabul edildi",
+    "cancelled": "İstek reddedildi",
+    "cancelledMechanicUnavailable": "İsteğİn iptal oldu çünkü mekanik artik çevrim içi değil",
+    "cancelledCustomerUnavailable": "İsteğİn iptal oldu çünkü müşteri artik çevrim içi değil",
+    "welcome": "Hey! Bir şeyemi ihtiyacın var?",
+    "yesNeed": "Evet, Yardıma ihtiyacım var",
+    "coming": "Bir mekanik yolda, Olduğun yerde kal!",
+    "received": "Yeni bir istek alındı!" 
+  }
+}
