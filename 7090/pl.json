@@ -1,0 +1,95 @@
+{
+  "wrongJob": "Nie masz prawidłowej pracy",
+  "errorHasOccured": "Wystąpił błąd, proszę spróbuj ponownie",
+  "noAccess": "Nie masz uprawnień do tego",
+  "noSpawnPosition": "Nie ma pustych stanowisk na samochody, skontaktuj się z administratorem",
+  "noMoney": "Nie masz wystarczająco pieniędzy",
+  "pressUse": "Wciśnij \"USE\"",
+  
+  "trailer": {
+    "needDown": "Musisz najpierw opuścić najazd",
+    "lockIt": "Musisz zablokować najazd aby wsiąść do pojazdu" 
+  },
+    
+  "hook": {
+    "alreadyUsed": "Ktoś używa już haka",
+    "tooFar": "Hak wrócił na ciężarówkę ponieważ był za daleko"
+  },
+    
+  "npc": {
+    "cleanUp": "Musisz wyczyścić aby NPC się pojawił",
+    "vehicleTooFar": "Twój pojazd jest za daleko!",
+    "vehicleRemoved": "Pojazd został usunięty",
+    "vehicleRetrieved": "Zwróciłeś swój pojazd!",
+    "removeFirst": "Nie możesz usunąć lawety gdy jest na niej pojazd"
+  },
+   
+  "towFine" : {
+    "alreadyFined" : "Ten pojazd posiada już mandat",
+    "invalidPrice" : "Kwota nieprawidłowa (od %s do %s)",
+    "invalidDescription": "Opis jest nieprawidłowy (od 10 do 250 znaków)",
+    "successfullySent": "Mandat został pomyślnie wysłany",
+    "received": "Mandat został wystawiony na pojazd",
+    "none": "Ten pojazd nie posiada mandatu",
+    "mechanicInactivity": "Mandat został anulowany ze względu na nieaktywność mechanika",
+    "victimInactivity": "Mandat został anulowany ze względu na nieaktywność właściciela",
+    "paid": "Mandat został pomyślnie opłacony",
+    "receivePaid": "Mandat został zapłacony, dostałeś %s"
+  },
+    
+  "truck" : {
+    "tooFar": "Jesteś za daleko od lawety"
+  },
+    
+  "weapon": {
+    "enlargeRope": "Rozszerz linę",
+    "ropeNotLinked": "Lina nie jest podłączona",
+    "shrinkRope": "Zwiń linę",
+    "lockUnlockTrailer": "(Od)blokuj najazd",
+    "trailerLocked": "Najazd zablokowany",
+    "trailerUnLocked": "Najazd oblokowany",
+    "trailerNotUp": "Najazd nie jest u góry",
+    "moveTrailer": "Przesuń najazd",
+    "trailerIsLocked": "Najazd jest zablokowany!",
+    "vehicleTooFar": "Pojazd jest za daleko",
+    "performAction": "Wykonaj",
+    "switchAction": "Przełącz akcję"
+  },
+  
+  "vgui": {
+    "road": "DROGA",
+    "road2": "SERWIS",
+    "signature": "Podpis",
+    "price": "Cena",
+    "date": "DATA",
+    "time": "CZAS",
+    "requestedBy": "NA WNIOSEK",
+    "vehicle": "POJAZD",
+    "city": "MIASTO",
+    "cancel": "Anuluj",
+    "pay": "ZAPŁAĆ",
+    "send": "WYŚLIJ",
+    "npcWelcome": "Ej! Co chciałbyś zrobić?",
+    "retrieveTruck": "Chciałbym zwrócić moją lawetę!",
+    "removeTruck": "Chciałbym usunąć moją lawetę!",
+    "nothing": "Nic...",
+    "requests": "WEZWANIA",
+	"pressR": "Naciśnij %s, aby ustawić grzywnę"      
+  },
+    
+  "request": {
+    "requests": "WEZWANIA",
+    "alreadyOnePending": "Posiadasz już wezwanie",
+    "nonePending": "Nie posiadasz żadnych potwierdzonych wezwań",
+    "sent": "Twoje wezwanie zostało wysłane",
+    "alreadyAccepted": "Te wezwanie zostało zaakceptowane przez kogoś innego",
+    "accepted": "Wezwanie przyjęte pomyślnie",
+    "cancelled": "Wezwanie odrzucone pomyślnie",
+    "cancelledMechanicUnavailable": "Twoje wezwanie zostało odrzucone ponieważ mechanik nie jest już dostępny",
+    "cancelledCustomerUnavailable": "Twoje wezwanie zostało odrzucone ponieważ klient nie jest już dostępny",
+    "welcome": "Hej, może czegoś potrzebujesz?",
+    "yesNeed": "Tak, potrzebuję pomocy",
+    "coming": "Mechanik jest w drodze, nie ruszaj się",
+    "received": "Odebrano nowe wezwanie" 
+  }
+}
