@@ -1,0 +1,95 @@
+{
+  "wrongJob": "Tu trabajo actual no te permite esto",
+  "errorHasOccured": "Ha ocurrido un error. Por favor intente otra vez",
+  "noAccess": "No tienes acceso a esto",
+  "noSpawnPosition": "No hay posicion de spawn para el vehiculo",
+  "noMoney": "No tienes suficiente dinero",
+  "pressUse": "PRESIONA \"E\"",
+  
+  "trailer": {
+   "lockIt": "Debe bloquear el trailer para ingresar al vehículo",
+   "needDown": "Primero debes bajar el trailer"
+  },
+    
+  "hook": {
+   "tooFar": "El gancho volvio al camion porque estas demasiado lejos",
+   "alreadyUsed": "Alguien ya esta usando el gancho"
+  },
+    
+  "npc": {
+    "cleanUp": "Debes limpiar para que el NPC lo haga aparecer",
+    "vehicleTooFar": "Tu vehiculo esta muy lejos!",
+    "vehicleRemoved": "Tu vehiculo ha sido removido",
+    "vehicleRetrieved": "¡Spawneaste tu vehículo!",
+    "removeFirst": "No puede quitar su grúa con un vehículo"
+  },
+   
+  "towFine" : {
+	"alreadyFined": "Este vehículo ya tiene una multa",
+	"successfullySent": "La multa se ha establecido correctamente",
+	"invalidDescription": "La descripcion no es valida. (10 a 250 caracteres)",
+	"invalidPrice": "El precio no es valido (de %s a %s)",
+	"mechanicInactivity": "La multa ha sido cancelada debido a la inactividad.",
+	"none": "This vehicle hasn't any tow fine",
+	"paid": "La multa ha sido pagada con exito.",
+	"victimInactivity": "La multa ha sido cancelada debido a la inactividad del dueño del auto.",
+	"received": "Has recibido una multa en tu vehiculo",
+	"receivePaid": "Han pagado una multa, cobraste %s"
+  },
+    
+  "truck" : {
+    "tooFar": "Estás muy lejos de la grua"
+  },
+    
+  "weapon": {
+	"switchAction": "Cambiar accion",
+	"trailerLocked": "Trailer bloqueado",
+	"lockUnlockTrailer": "(des)bloquear trailer",
+	"shrinkRope": "Recoger cable",
+	"enlargeRope": "Extender cable",
+	"trailerNotUp": "El trailer no esta arriba",
+	"ropeNotLinked": "El cable no esta enganchado",
+	"moveTrailer": "Bajar plancha",
+	"trailerUnLocked": "Trailer desbloqueado",
+	"vehicleTooFar": "El vehículo esta muy lejos",
+	"performAction": "Ejecutar accion",
+	"trailerIsLocked": "El trailer esta bloqueado!"
+  },
+  
+  "vgui": {
+	"send": "ENVIAR",
+	"cancel": "Cancelar",
+	"pressR": "Pressione %s para multar",
+	"requestedBy": "SOLICITADO POR",
+	"time": "TIEMPO",
+	"retrieveTruck": "¡Me gustaría spawnear mi grúa!",
+	"nothing": "Nada...",
+	"price": "Precio",
+	"signature": "Firma",
+	"pay": "PAGAR",
+	"npcWelcome": "¡Oye! ¿Que te gustaría hacer?",
+	"removeTruck": "¡Me gustaría remover mi grúa!",
+	"vehicle": "VEHICULO",
+	"requests": "SOLICITUD",
+	"date": "FECHA",
+	"road2": "SERVICIO",
+	"city": "CIUDAD",
+	"road": "CALLE"
+  },
+    
+  "request": {
+	"requests": "SOLICITUDES",
+	"alreadyOnePending": "Ya tienes una solicitud pendiente",
+	"received": "Se ha recibido una nueva solicitud.",
+	"coming": "Estan en camino, no te muevas",
+	"yesNeed": "Si, necesito ayuda!",
+	"cancelledMechanicUnavailable": "Su solicitud ha sido cancelada porque el job ya no esta disponible",
+	"welcome": "Hola, me necesitas?",
+	"cancelledCustomerUnavailable": "Su solicitud ha sido cancelada porque el cliente ya no está disponible",
+	"accepted": "Solicitud aceptada con exito",
+	"nonePending": "No tienes ninguna solicitud aceptada",
+	"sent": "Su solicitud ha sido enviada!",
+	"cancelled": "Solicitud cancelada con exito",
+	"alreadyAccepted": "Esta solicitud ya ha sido aceptada por otra persona."
+  }
+}
