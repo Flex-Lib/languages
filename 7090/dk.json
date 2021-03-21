@@ -1,0 +1,95 @@
+{
+  "wrongJob": "Du har ikke det påkrævede job",
+  "errorHasOccured": "En fejl opstod prøv igen",
+  "noAccess": "Du har ikke tilladelse til dette",
+  "noSpawnPosition": "Der mangler et spawn position for din bil",
+  "noMoney": "Du har ikke råd til dette",
+  "pressUse": "Tryk \"USE\"",
+ 
+  "trailer": {
+    "needDown": "Du skal først sænke traileren",
+    "lockIt": "Du skal låse traileren før du kan gå ind i bilen"
+  },
+   
+  "hook": {
+    "alreadyUsed": "Nogen bruger allerede krogen",
+    "tooFar": "Krogen blev sat tilbage på lastbilen, da du var for langt væk"
+  },
+   
+  "npc": {
+    "cleanUp": "Du skal bruge cleanup funktionen, for at NPCEN kan spawne",
+    "vehicleTooFar": "Dit køretøj er for langt væk!",
+    "vehicleRemoved": "Dit køretøj blev fjernet",
+    "vehicleRetrieved": "Du har hentet dit køretøj!",
+    "removeFirst": "Du kan ikke fjerne din lastbil med et køretøj oven på"
+  },
+   
+  "towFine" : {
+    "alreadyFined" : "Dette køretøj har allerede en bøde",
+    "invalidPrice" : "Prisen er ikke gyldig (fra %s til %s)",
+    "invalidDescription": "Beskrivelsen er ikke gyldigt (fra 10 til 250 tegn)",
+    "successfullySent": "Bøden blev placeret",
+    "received": "En bøde er blevet placeret på dit køretøj",
+    "none": "Dette køretøj har ingen bøde på sig",
+    "mechanicInactivity": "Bøden blev annulleret, da mekanikeren er inaktiv",
+    "victimInactivity": "Bøden blev annulleret, da ejeren af køretøjet er inaktiv",
+    "paid": "Bøden blev betalt",
+    "receivePaid": "En bøde blev betalt. Du har modtog %s"
+  },
+   
+  "truck" : {
+    "tooFar": "Du er for langt væk fra lastbilen"
+  },
+   
+  "weapon": {
+    "enlargeRope": "Forlæng rebet",
+    "ropeNotLinked": "Rebet er ikke sat på",
+    "shrinkRope": "Træk rebet tilbage",
+    "lockUnlockTrailer": "åben/lås traileren",
+    "trailerLocked": "Trailer låst",
+    "trailerUnLocked": "Trailer åben",
+    "trailerNotUp": "Traileren er ikke oppe",
+    "moveTrailer": "Flyt traileren",
+    "trailerIsLocked": "Traileren er låst!",
+    "vehicleTooFar": "Køretøjet er for langt væk",
+    "performAction": "Udfør handling",
+    "switchAction": "Skift handling"
+  },
+ 
+  "vgui": {
+    "road": "VEJ",
+    "road2": "SERVICE",
+    "signature": "Underskrift",
+    "price": "Pris",
+    "date": "DATO",
+    "time": "TID",
+    "requestedBy": "ANMODET AF",
+    "vehicle": "KØRETØJ",
+    "city": "BY",
+    "cancel": "ANNULLER",
+    "pay": "BETAL",
+    "send": "SEND",
+    "npcWelcome": "Hvad kan jeg hjælpe med?",
+    "retrieveTruck": "Jeg vil gerne have min lastbil!",
+    "removeTruck": "Jeg vil gerne have fjernet min lastbil!",
+    "nothing": "Ingenting...",
+    "requests": "ANMODNINGER",
+    "pressR": "Tryk på %s for at indstille en bøde"
+  },
+   
+  "request": {
+    "requests": "ANMODNINGER",
+    "alreadyOnePending": "Du har allerede en anmodning",
+    "nonePending": "Du har ingen gældende anmodninger",
+    "sent": "Din anmodning blev sendt",
+    "alreadyAccepted": "Denne anmodning er allerede blevet taget af en anden mekaniker",
+    "accepted": "Anmodning accepteret",
+    "cancelled": "Anmodning annulleret",
+    "cancelledMechanicUnavailable": "Din anmodning blev annulleret, da mekanikeren ikke længere er tilgængelig",
+    "cancelledCustomerUnavailable": "Din anmodning blev annulleret, da kunden ikke længere er tilgængelig",
+    "welcome": "Har du brug for noget?",
+    "yesNeed": "Ja, jeg har brug for hjælp",
+    "coming": "En mekaniker er nu på vej, forhold dig i området",
+    "received": "En ny anmodning er modtaget"
+  }
+}
