@@ -1,0 +1,46 @@
+{
+    "vgui": {
+        "saveZone": "Enregistrer la zone",
+        "editZone": "Modifier la zone",
+        "createZone": "Créer une zone",
+        "zone": "Zone",
+        "canHelpYou": "Hey, comment puis-je t'aider ?",
+
+        "timeLeft": "Temps restant: %s seconde(s)",
+        "score": "Points: %s / %s",
+
+        "show": "Montrer",
+        "delete": "Supprimer"
+    },
+
+    "admin": {
+        "mustArea": "Vous devez être dans une zone",
+        "zoneAdded": "Zone ajoutée avec succès",
+        "zoneDeleted": "Zone supprimée avec succès"
+    },
+
+    "test": {
+        "alreadyTest": "Vous avez déjà un test en cours",
+        "noMoney": "Vous n'avez pas les fonds nécessaires",
+        "zoneUnavailable": "Il n'y a pas de zone disponible pour le moment",
+        "testStart": "Le test va démarrer, allez à l'endroit indiqué",
+
+        "success": "Vous avez réussi le test, vous avez reçu votre licence!",
+        "fail": "Vous avez échoué le test, vous ferez mieux la prochaine fois.",
+
+        "cancelTime": "Le test a été annulé car vous avez mis trop de temps pour vous y rendre",
+        "cancelDead": "Le test a été annulé car vous êtes mort"
+    },
+
+    "weapon": {
+        "placeTarget": "Placer la cible où vous visez",
+        "deleteTarget": "Supprimer la cible que vous visez",
+        "createTarget": "Créer une cible",
+
+        "needZone": "Vous devez créer une zone",
+        "placeZone": "Placer un point pour former la zone",
+        "deletePoint": "Supprimer le dernier point placé",
+        "saveZone": "Sauvegarder la zone",
+        "createZone": "Créer une zone"
+    }
+}
