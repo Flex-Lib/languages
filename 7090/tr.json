@@ -1,6 +1,6 @@
 {
   "wrongJob": "Doğru mesleğe sahip değilsin",
-  "errorHasOccured": "Bşr hata meydana geldi. Daha sonra tekrar dene",
+  "errorHasOccured": "Bir hata meydana geldi. Daha sonra tekrar dene",
   "noAccess": "Buna erişimin yok",
   "noSpawnPosition": "Araba doğma noktası yok. Bir yetkili ile iletişime geç.",
   "noMoney": "Yeterince paran yok",
@@ -8,7 +8,7 @@
   
   "trailer": {
     "needDown": "Önce çekiciyi indirmelisin",
-    "lockIt": "kamyona binmek için önce çekiciyi kitle" 
+    "lockIt": "Kamyona binmek için önce çekiciyi kitle" 
   },
     
   "hook": {
@@ -18,20 +18,20 @@
     
   "npc": {
     "cleanUp": "NPC nin görünmesi için \"Clean Up\" atmalısın",
-    "vehicleTooFar": "Araban çok uzak!",
-    "vehicleRemoved": "Araban silindi",
-    "vehicleRetrieved": "Aracını geri aldın!",
-    "removeFirst": "Üstünde raba varken kamyonu silemezsin"
+    "vehicleTooFar": "Çekicin çok uzak!",
+    "vehicleRemoved": "Çekici silindi",
+    "vehicleRetrieved": "Çekicini geri aldın!",
+    "removeFirst": "Üstünde araba varken kamyonu silemezsin!"
   },
    
   "towFine" : {
-    "alreadyFined" : "Bu arabada zaten ceza var",
+    "alreadyFined" : "Bu arabaya air zaten bir ceza mevcut",
     "invalidPrice" : "Bu ücret geçerli değil ( %s den  %s e kadar)",
-    "invalidDescription": "Bu açıklama geçerli değil (10 karakterden 250 karaktere kadar )",
-    "successfullySent": "Başarıyla ceza yazdın",
+    "invalidDescription": "Bu açıklama geçerli değil (10 karakterden 250 karaktere kadar)",
+    "successfullySent": "Ceza Yazıldı",
     "received": "Arabana ceza yazıldı",
-    "none": "Bu arabada ceza yok",
-    "mechanicInactivity": "Meknanik AFK olduğu için ceza silindi",
+    "none": "Bu araba için geçerli bir ceza yok",
+    "mechanicInactivity": "Mekanik AFK olduğu için ceza silindi",
     "victimInactivity": "Araba sahibi AFK olduğu için ceza silindi",
     "paid": "Ceza ödendi",
     "receivePaid": "Ceza ödendi, %s kazandın "
@@ -42,9 +42,9 @@
   },
     
   "weapon": {
-    "enlargeRope": "Halatı uzat",
+    "enlargeRope": "Halati uzat",
     "ropeNotLinked": "Halat bağlı değil",
-    "shrinkRope": "Halatı kısalt",
+    "shrinkRope": "Halati kisalt",
     "lockUnlockTrailer": "Çekicinin kilidini aç/kapa",
     "trailerLocked": "Çekici kilitlendi",
     "trailerUnLocked": "Çekici açıldı",
@@ -52,13 +52,13 @@
     "moveTrailer": "Dorseyi hareket ettir",
     "trailerIsLocked": "Dorse kilitlendi!",
     "vehicleTooFar": "Araba çok uzak",
-    "performAction": "Eylem gerçekleştir",
-    "switchAction": "Geçiş eylemi"
+    "performAction": "Eylemi Uygula",
+    "switchAction": "Sonraki Eyleme Geç"
   },
   
   "vgui": {
     "road": "YOL",
-    "road2": "SEVİS",
+    "road2": "SERVİS",
     "signature": "İmza",
     "price": "Bedel",
     "date": "TARİH",
@@ -74,7 +74,7 @@
     "removeTruck": "Çekicimi silmek istiyorum!",
     "nothing": "Hiç...",
     "requests": "İSTEKLER",
-    "pressR": "ceza yazkmak için %s e bas "
+    "pressR": "Ceza yazmak için %s tuşuna bas "
   },
     
   "request": {
@@ -85,9 +85,9 @@
     "alreadyAccepted": "Bu istek başkası tarafından kabul edilmiş",
     "accepted": "İstek kabul edildi",
     "cancelled": "İstek reddedildi",
-    "cancelledMechanicUnavailable": "İsteğİn iptal oldu çünkü mekanik artik çevrim içi değil",
-    "cancelledCustomerUnavailable": "İsteğİn iptal oldu çünkü müşteri artik çevrim içi değil",
-    "welcome": "Hey! Bir şeyemi ihtiyacın var?",
+    "cancelledMechanicUnavailable": "İsteğİn iptal oldu çünkü mekanik artik çevrimiçi değil",
+    "cancelledCustomerUnavailable": "İsteğİn iptal oldu çünkü müşteri artik çevrimiçi değil",
+    "welcome": "Hey! Bir şeye mi ihtiyacın var?",
     "yesNeed": "Evet, Yardıma ihtiyacım var",
     "coming": "Bir mekanik yolda, Olduğun yerde kal!",
     "received": "Yeni bir istek alındı!" 
