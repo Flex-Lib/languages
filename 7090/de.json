@@ -7,8 +7,8 @@
   "pressUse": "Drücke \"Benutzen\"",
   
   "trailer": {
-    "needDown": "Du musst zuerst den Anhänger senken",
-    "lockIt": "Du musst erst den Anhänger verriegeln, bevor du in das Fahrzeug steigst" 
+    "needDown": "Du musst zuerst die Ladefläche senken",
+    "lockIt": "Du musst erst die Ladefläche verriegeln, bevor du in das Fahrzeug einsteigen kannst"
   },
     
   "hook": {
@@ -17,20 +17,20 @@
   },
     
   "npc": {
-    "cleanUp": "Du musst den NPC entfernen, um ihn erscheinen zu lassen",
+    "cleanUp": "NPC erfolgreich gesetzt! Starte jetzt den Server neu, um den NPC sehen zu können",
     "vehicleTooFar": "Dein Fahrzeug ist zu weit weg!",
     "vehicleRemoved": "Dein Fahrzeug wurde entfernt!",
     "vehicleRetrieved": "Du hast dein Fahrzeug zurückgeholt!",
-    "removeFirst": "Du kannst deinen Abschleppwagen nicht einparken, da ein Auto drauf ist!"
+    "removeFirst": "Du kannst deinen Abschleppwagen nicht einparken, weil sich ein Auto auf der Ladefläche befindet!"
   },
    
   "towFine" : {
     "alreadyFined" : "Dieses Fahrzeug hat bereits ein Ticket",
     "invalidPrice" : "Der Preis ist nicht gültig (von %s bis %s)",
-    "invalidDescription": "Die Begründung ist ungültig! (von 10 bis 250 Buchstaben)",
+    "invalidDescription": "Die Begründung ist ungültig! (zwischen 10 und 250 Buchstaben)", 
     "successfullySent": "Das Ticket wurde erfolgreich plaziert",
     "received": "Es wurde ein Ticket an deinem Fahrzeug platziert",
-    "none": "Dieses Fahrzeug hat kein Strafzettel",
+    "none": "Dieses Fahrzeug hat keinen Strafzettel",
     "mechanicInactivity": "Das Ticket wurde aufgrund der Abwesenheit des Mechanikers aufgehoben",
     "victimInactivity": "Das Ticket wurde aufgrund der Abwesenheit des Fahrzeugbesitzers aufgehoben",
     "paid": "Das Ticket wurde bezahlt",
@@ -42,15 +42,15 @@
   },
     
   "weapon": {
-    "enlargeRope": "Zieh das Seil raus",
+    "enlargeRope": "Verlängere das Seil",
     "ropeNotLinked": "Das Seil ist nicht verbunden",
     "shrinkRope": "Verkürze das Seil",
-    "lockUnlockTrailer": "Öffne/Schließe den Anhänger",
-    "trailerLocked": "Anhänger zugeschlossen",
-    "trailerUnLocked": "Anhänger aufgeschlossen",
-    "trailerNotUp": "Der Anhänger ist nicht oben",
-    "moveTrailer": "Bewege den Anhänger",
-    "trailerIsLocked": "Der Anhänger ist zugeschlossen!",
+    "lockUnlockTrailer": "Verriegle/Entriegle die Ladefläche",
+    "trailerIsLocked": "Ladefläche verriegelt",
+    "trailerUnLocked": "Ladefläche entriegelt",
+    "trailerNotUp": "Die Ladefläche ist nicht oben",
+    "moveTrailer": "Bewege die Ladefläche",
+    "trailerIsLocked": "Die Ladefläche ist verriegelt!",
     "vehicleTooFar": "Das Fahrzeug ist zu weit weg",
     "performAction": "Aktion durchführen",
     "switchAction": "Aktion wechseln"
@@ -74,7 +74,7 @@
     "removeTruck": "Ich möchte meinen Abschleppwagen zurückbringen!",
     "nothing": "Nichts...",
     "requests": "ANFRAGEN",
-    "pressR": "Drücken Sie %s, um eine Geldstrafe festzulegen"
+    "pressR": "Drücke %s, um eine Geldstrafe festzulegen"
   },
     
   "request": {
@@ -82,7 +82,7 @@
     "alreadyOnePending": "Du hast bereits einen aktuellen Auftrag",
     "nonePending": "Du hast keine verfügbaren Aufträge",
     "sent": "Deine Anfrage wurde gesendet",
-    "alreadyAccepted": "Diese Anfrage wurde bereits von jemand anderem angenommen",
+    "alreadyAccepted": "Diese Anfrage wurde bereits von einer anderen Person angenommen",
     "accepted": "Anfrage erfolgreich angenommen",
     "cancelled": "Anfrage storniert",
     "cancelledMechanicUnavailable": "Deine Anfrage wurde storniert, da der Mechaniker nicht mehr verfügbar ist",
