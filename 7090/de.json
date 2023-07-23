@@ -42,6 +42,7 @@
   },
     
   "weapon": {
+    "trailerLocked": "Ladefläche verriegelt",
     "enlargeRope": "Verlängere das Seil",
     "ropeNotLinked": "Das Seil ist nicht verbunden",
     "shrinkRope": "Verkürze das Seil",
